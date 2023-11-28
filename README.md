@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Fundamental Fullstack Projects<br>👯 I’m looking to collaborate on any project that interests me, feel free to contact!<br>🤝 I’m looking for help with Software Architecture and Design Patterns<br>🌱 I’m currently learning .NET and Vue.JS<br>💬 Ask me about <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![](https://komarev.com/ghpvc/?username=batugkocak&color=red)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/batugkocak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/batugkocak) 
